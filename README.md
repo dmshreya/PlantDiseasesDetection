@@ -1,0 +1,2 @@
+# PlantDiseasesDetection
+Taining plant diseases
